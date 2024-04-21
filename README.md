@@ -3,6 +3,12 @@
 An Artificial Intelligence project aimed to solve the challenge proposed
 by IBM in Makeathon Athens.
 
+## Authors
+
+- Simos Anastasios Athanasiadis
+- Aggelos Ioannis Lagos
+- Dimitrios Papathanasiou
+
 ## Model Implementation
 Our innovative approach combines AI with optimization models to target the 
 resolution of the critical business challenge faced by Chicago Taxi in 
@@ -23,3 +29,5 @@ combined to create an innovative and complex approach.
 - Machine Learning model that predicts flight delays for proactive taxi deployment.
 - Method which calculates hourly taxi demand for efficient resource allocation.
 - Optimization model that dynamically adjusts fleet size for optimal operations.
+
+![Taxi Optimization](./resources/Taxi_optimization.png)
